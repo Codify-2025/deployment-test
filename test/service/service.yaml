@@ -19,7 +19,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: test-gateway-test
+  name: gateway-test
   namespace: test-ns
 spec:
   selector:
